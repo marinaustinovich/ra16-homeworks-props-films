@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9fhtadw96dj7bxah/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-props-films/branch/main)
+
+
 Рейтинг фильмов
 ===
 
