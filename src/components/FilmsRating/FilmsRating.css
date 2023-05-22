@@ -1,0 +1,11 @@
+.container {
+    background-color: antiquewhite;
+    min-height: 400px;
+    padding: 1rem;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+

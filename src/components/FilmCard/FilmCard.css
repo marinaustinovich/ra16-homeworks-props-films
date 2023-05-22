@@ -1,0 +1,73 @@
+.film {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    justify-content: center;
+    width: 60%;
+    height: 170px;
+    background-color: azure;
+    margin: 0 auto 4rem auto;
+    padding-left: 155px;
+}
+
+.film h3 {
+    margin-bottom: 2rem;
+}
+
+.material-icons {
+    color: grey;
+    margin-left: 95%;
+    margin-top: 1rem;
+}
+
+.material-icons:hover {
+    cursor: pointer;
+    color: black;
+}
+
+.film-image {
+    position: absolute;
+    width: 120px;
+    top: -40px;
+    left: 18px;
+}
+
+.link-wrapper {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    right: 45px;
+    width: 40px;
+}
+
+.btn {
+    color: rgba(94, 88, 16, 0.301);
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid rgba(94, 88, 16, 0.301);
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.film-price {
+    margin-right: 0.5rem;
+    color: white;
+    background-color:  rgba(94, 88, 16, 0.301);
+}
+
+.film-details {
+    background-color: azure;
+    border-color: azure;
+}
+
+.btn:hover {
+    background-color:  rgba(61, 57, 13, 0.301);
+}
+
+.card-body-stars {
+    list-style: none; 
+    padding: 0;
+    display: flex; 
+}
