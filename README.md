@@ -1,9 +1,12 @@
+
+
+Рейтинг фильмов
+===
+
 [![Build status](https://ci.appveyor.com/api/projects/status/9fhtadw96dj7bxah/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-props-films/branch/main)
 
 deployment: https://marinaustinovich.github.io/ra16-homeworks-props-films/
 
-Рейтинг фильмов
-===
 
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
 ![Список фильмов](./public/preview.png)

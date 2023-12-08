@@ -1,10 +1,9 @@
-import './App.css';
-import FilmsRating from './components/FilmsRating/FilmsRating';
+import "./App.css";
+import { FilmsRating } from "./components";
+import { films } from "./data/films";
 
-function App() {
-  return (
-    <FilmsRating />
-  );
-}
+
+
+const App = () => <FilmsRating films={films}/>;
 
 export default App;
